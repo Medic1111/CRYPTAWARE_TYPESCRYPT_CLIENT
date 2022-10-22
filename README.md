@@ -2,7 +2,7 @@
 
 ---
 
-[Dev is live here](https://cryptaware.netlify.app/)
+[Dev is live here](https://cryptaware-typescript.netlify.app/)
 
 ---
 
