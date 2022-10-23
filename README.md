@@ -9,7 +9,7 @@
 ![picture of home page](home.png)
 ![picture of home page](mobile.png)
 
-Client version of a crypto-currency tracker build with React. User may search and (currently) find the intraday data for crypto-currency of choice, with top currencies being available automatically.
+Client version  in typescript of a crypto-currency tracker build with React. User may search and (currently) find the intraday data for crypto-currency of choice, with top currencies being available automatically.
 
 > Full-stack in the making with MERN stack.
 
@@ -23,7 +23,7 @@ Client version of a crypto-currency tracker build with React. User may search an
 ### TECH
 
 - Client
-  - React.js
+  - React.js/TypeScript
     - useContext
     - Recharts
     - AlphaVantage API
